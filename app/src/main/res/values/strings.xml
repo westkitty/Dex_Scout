@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DEX//SCOUT</string>
+    <string name="nav_dashboard">Brief</string>
+    <string name="nav_matrix">Matrix</string>
+    <string name="nav_delta">Delta</string>
+    <string name="nav_scout">Scout</string>
+    <string name="nav_lab">Lab</string>
+
+    <string name="status_offline">OFFLINE READY</string>
+    <string name="status_online">ONLINE</string>
+    <string name="label_synthetic_dataset">SYNTHETIC SAMPLE INVENTORY</string>
+
+    <string name="action_search">Search inventory</string>
+    <string name="action_export">Export data</string>
+    <string name="action_add_service">Add service</string>
+    <string name="action_capture_snapshot">Capture snapshot</string>
+    <string name="action_open_docs">Open official link</string>
+    <string name="action_refresh_source">Check public header</string>
+    <string name="action_save_assessment">Save offline</string>
+    <string name="action_run_gemini">Run optional Gemini brief</string>
+    <string name="action_back">Navigate back</string>
+    <string name="action_close">Close</string>
+
+    <string name="warning_stale_source">Stale verification source</string>
+    <string name="warning_inferred_entitlement">Inferred access — not verified</string>
+    <string name="warning_inference_only">Model inference only — no remote build/compute</string>
+</resources>

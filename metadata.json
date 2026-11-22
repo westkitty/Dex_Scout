@@ -1,0 +1,6 @@
+{
+  "name": "DEX//SCOUT",
+  "description": "Offline-first capability, subscription, quota, and cost intelligence system for AI tools, cloud services, and developer platforms with optional Firebase AI Logic analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
